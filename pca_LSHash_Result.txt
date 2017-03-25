@@ -1,0 +1,471 @@
+Distance Func Hamming
+
+############################
+Hash_size: 10
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 33 Distance is :0.654873550608
+Index 904 Distance is :4.57460771692
+Index 371 Distance is :9.07468081294
+Index 525 Distance is :23.7502760569
+Index 603 Distance is :25.0543121378
+Index 714 Distance is :31.0020448233
+Hash_size: 10
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 559 Distance is :8.53334033027
+Index 895 Distance is :15.2625723645
+Index 78 Distance is :25.6191937779
+Index 928 Distance is :50.4029415666
+Index 696 Distance is :57.6030296864
+Index 449 Distance is :116.058948403
+Hash_size: 10
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 916 Distance is :8.76009555733
+Index 845 Distance is :9.94258135273
+Index 219 Distance is :10.2353202598
+Index 834 Distance is :10.3199575155
+Index 320 Distance is :11.1321013895
+Index 45 Distance is :11.3829963111
+Index 926 Distance is :11.575377815
+Index 969 Distance is :11.9467674814
+Index 494 Distance is :17.4992547352
+Index 277 Distance is :18.2166255451
+Index 625 Distance is :23.2584637739
+Index 675 Distance is :28.1084784054
+Index 47 Distance is :30.5178877368
+Index 360 Distance is :54.112872086
+Hash_size: 10
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 834 Distance is :2.43228113562
+Index 52 Distance is :2.5419135832
+Index 154 Distance is :2.75837671725
+Index 845 Distance is :2.82998586845
+Index 699 Distance is :3.28978468411
+Index 670 Distance is :3.9959425045
+Index 615 Distance is :4.06422273781
+Index 173 Distance is :7.62362427644
+Index 494 Distance is :8.71552761226
+Index 954 Distance is :9.0736809577
+Index 277 Distance is :10.237697808
+Index 929 Distance is :11.7930052175
+Index 748 Distance is :12.3996517704
+Index 977 Distance is :18.7686314022
+Index 51 Distance is :19.8838944556
+Index 332 Distance is :28.0065944315
+Index 360 Distance is :53.3450487038
+Index 572 Distance is :58.0678663006
+Hash_size: 10
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 580 Distance is :0.184979689348
+Index 60 Distance is :0.20270484813
+Index 1 Distance is :0.230803286418
+Index 206 Distance is :0.325690207645
+Index 664 Distance is :0.431318315885
+Index 948 Distance is :0.531094958246
+Index 52 Distance is :0.559556983134
+Index 10 Distance is :0.603730686977
+Index 154 Distance is :0.7255257113
+Index 310 Distance is :1.31084809611
+Index 870 Distance is :1.50743650252
+Index 478 Distance is :1.52236586151
+Index 94 Distance is :1.54820883623
+Index 497 Distance is :1.65984783285
+Index 699 Distance is :1.72889730512
+Index 619 Distance is :1.76753541707
+Index 670 Distance is :1.85175234473
+Index 615 Distance is :2.98065674143
+Index 749 Distance is :3.21968885086
+Index 882 Distance is :3.74552160263
+Index 64 Distance is :3.94339419563
+Index 294 Distance is :4.6316816471
+Index 894 Distance is :5.34687160942
+Index 173 Distance is :6.16866495521
+Index 954 Distance is :7.1761983901
+Index 852 Distance is :7.72002206034
+Index 606 Distance is :8.69702563274
+Index 270 Distance is :11.2428017071
+Index 341 Distance is :12.578594354
+Index 14 Distance is :12.6114327137
+Index 439 Distance is :13.032414105
+Index 97 Distance is :15.3018880495
+Index 737 Distance is :16.1974444948
+Index 22 Distance is :16.9134959758
+Index 198 Distance is :17.0945817953
+Index 118 Distance is :20.5377959436
+Index 829 Distance is :24.4415120097
+Index 136 Distance is :31.9469501151
+Hash_size: 11
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 946 Distance is :0.838600536599
+Index 597 Distance is :1.75057229173
+Index 544 Distance is :3.8745782886
+Index 115 Distance is :8.54501314175
+Index 51 Distance is :17.1568934939
+Index 334 Distance is :72.4487653385
+Index 391 Distance is :74.5039243107
+Hash_size: 11
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 128 Distance is :15.9111088264
+Index 351 Distance is :16.0781099557
+Index 194 Distance is :20.6140112695
+Index 93 Distance is :37.9592600133
+Index 378 Distance is :59.076869445
+Index 171 Distance is :72.6554563256
+Hash_size: 11
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 316 Distance is :10.2859242003
+Index 299 Distance is :10.5918097849
+Index 31 Distance is :11.0011848259
+Index 261 Distance is :11.0036357934
+Index 2 Distance is :12.8382739532
+Index 722 Distance is :14.4749523285
+Index 358 Distance is :23.9991595008
+Hash_size: 11
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 446 Distance is :2.13135863264
+Index 615 Distance is :4.06422273781
+Index 488 Distance is :4.81412514801
+Index 927 Distance is :5.09085869822
+Index 479 Distance is :9.88071442538
+Index 998 Distance is :18.9706882809
+Index 872 Distance is :20.4493129233
+Index 481 Distance is :25.280602703
+Index 772 Distance is :26.6448383572
+Index 945 Distance is :48.1375904999
+Index 770 Distance is :98.8206149322
+Hash_size: 11
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 1 Distance is :0.230803286418
+Index 203 Distance is :0.403653995118
+Index 189 Distance is :0.497933303103
+Index 847 Distance is :0.671868847361
+Index 154 Distance is :0.7255257113
+Index 756 Distance is :1.54951070945
+Index 670 Distance is :1.85175234473
+Index 591 Distance is :39.3956478859
+Index 645 Distance is :49.727449764
+Hash_size: 12
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 652 Distance is :1.66776854236
+Index 691 Distance is :2.61192402611
+Index 41 Distance is :4.1242382632
+Index 322 Distance is :4.67699198812
+Index 216 Distance is :6.37664992796
+Index 856 Distance is :8.70373688096
+Index 746 Distance is :13.4532466738
+Index 998 Distance is :17.8412076075
+Index 833 Distance is :20.0736616467
+Index 475 Distance is :21.7946102588
+Hash_size: 12
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 288 Distance is :8.28193464505
+Index 192 Distance is :9.36877718545
+Index 262 Distance is :14.2410203319
+Index 138 Distance is :17.0885482935
+Hash_size: 12
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 320 Distance is :11.1321013895
+Index 408 Distance is :11.7635468493
+Index 147 Distance is :15.5767076109
+Index 190 Distance is :17.2702967582
+Index 995 Distance is :35.4251750523
+Index 487 Distance is :84.7956276211
+Index 860 Distance is :141.536404899
+Hash_size: 12
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 118 Distance is :22.4710301588
+Hash_size: 12
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 580 Distance is :0.184979689348
+Index 60 Distance is :0.20270484813
+Index 1 Distance is :0.230803286418
+Index 289 Distance is :0.275864527748
+Index 987 Distance is :0.311005868674
+Index 375 Distance is :0.363206054881
+Index 67 Distance is :0.365458626355
+Index 225 Distance is :0.387752387237
+Index 203 Distance is :0.403653995118
+Index 417 Distance is :0.534969605319
+Index 627 Distance is :0.57097604234
+Index 10 Distance is :0.603730686977
+Index 688 Distance is :0.631860599277
+Index 109 Distance is :1.01175819585
+Index 310 Distance is :1.31084809611
+Index 845 Distance is :1.50440451817
+Index 870 Distance is :1.50743650252
+Index 94 Distance is :1.54820883623
+Index 659 Distance is :1.91243394346
+Index 818 Distance is :2.45722332314
+Index 880 Distance is :2.86292974059
+Index 882 Distance is :3.74552160263
+Index 571 Distance is :5.39118173847
+Index 283 Distance is :6.50301851456
+Index 826 Distance is :10.3874355544
+Index 804 Distance is :13.5171384692
+Index 441 Distance is :14.8663102984
+Index 472 Distance is :16.331022922
+Index 125 Distance is :24.7426876224
+Hash_size: 13
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 949 Distance is :0.586838389861
+Hash_size: 13
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 225 Distance is :8.34107099398
+Index 549 Distance is :8.41565113118
+Index 336 Distance is :15.0066658945
+Hash_size: 13
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 218 Distance is :9.17195587998
+Index 430 Distance is :11.6884858501
+Index 752 Distance is :23.7119415343
+Index 118 Distance is :30.7770840902
+Index 817 Distance is :36.6615487644
+Hash_size: 13
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 467 Distance is :97.7650272231
+Hash_size: 13
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 203 Distance is :0.403653995118
+Index 309 Distance is :0.433413167519
+Index 880 Distance is :2.86292974059
+Hash_size: 14
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 149 Distance is :0.553007352375
+Index 900 Distance is :0.80985138252
+Index 688 Distance is :0.831829628126
+Index 913 Distance is :1.29578956451
+Index 425 Distance is :1.32191861726
+Index 267 Distance is :1.44192661695
+Index 216 Distance is :6.37664992796
+Hash_size: 14
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 14
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 14
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 14
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 206 Distance is :0.325690207645
+Index 614 Distance is :0.382808269843
+Index 931 Distance is :0.396369175667
+Index 700 Distance is :0.462755925319
+Index 624 Distance is :0.642765623467
+Index 784 Distance is :0.763187774322
+Index 15 Distance is :0.80985138252
+Hash_size: 15
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 475 Distance is :21.7946102588
+Index 936 Distance is :22.6415224326
+Index 525 Distance is :23.7502760569
+Hash_size: 15
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 15
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 118 Distance is :30.7770840902
+Hash_size: 15
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 15
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 105 Distance is :6.82818231649
+Distance Func Euclidean
+
+############################
+Hash_size: 10
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 652 Distance is :1.66776854236
+Index 216 Distance is :6.37664992796
+Hash_size: 10
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 10
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 968 Distance is :23.9987070524
+Hash_size: 10
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 314 Distance is :17.5928258688
+Index 896 Distance is :18.6926914761
+Hash_size: 10
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 97 Distance is :15.3018880495
+Hash_size: 11
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 484 Distance is :1.01346996353
+Index 795 Distance is :1.24857066266
+Index 539 Distance is :2.92813784436
+Hash_size: 11
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 260 Distance is :8.69594708341
+Index 536 Distance is :8.98867299101
+Hash_size: 11
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 11
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 11
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 1 Distance is :0.230803286418
+Index 772 Distance is :25.1708994274
+Hash_size: 12
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 12
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 12
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 12
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 795 Distance is :2.93621391409
+Hash_size: 12
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 580 Distance is :0.184979689348
+Index 179 Distance is :0.451586579536
+Hash_size: 13
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 13
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 13
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 13
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 72 Distance is :24.0111635604
+Hash_size: 13
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Hash_size: 14
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 41 Distance is :4.1242382632
+Hash_size: 14
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 14
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 14
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 14
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 756 Distance is :1.54951070945
+Hash_size: 15
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 15
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 15
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 15
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 15
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 614 Distance is :0.382808269843

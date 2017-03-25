@@ -1,0 +1,387 @@
+Distance Func Hamming
+
+############################
+Hash_size: 10
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 730 Distance is :111.0
+Index 864 Distance is :111.0
+Index 114 Distance is :115.0
+Index 196 Distance is :121.0
+Index 623 Distance is :125.0
+Index 614 Distance is :125.0
+Index 920 Distance is :134.0
+Index 523 Distance is :151.0
+Hash_size: 10
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 604 Distance is :125.0
+Index 459 Distance is :138.0
+Index 647 Distance is :142.0
+Index 7 Distance is :142.0
+Index 484 Distance is :144.0
+Index 384 Distance is :145.0
+Index 77 Distance is :153.0
+Index 474 Distance is :157.0
+Index 286 Distance is :165.0
+Index 247 Distance is :173.0
+Index 445 Distance is :186.0
+Index 489 Distance is :195.0
+Index 743 Distance is :209.0
+Index 11 Distance is :240.0
+Hash_size: 10
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 953 Distance is :148.0
+Index 786 Distance is :157.0
+Index 45 Distance is :159.0
+Index 51 Distance is :162.0
+Index 138 Distance is :163.0
+Index 200 Distance is :173.0
+Index 728 Distance is :186.0
+Index 671 Distance is :201.0
+Index 574 Distance is :221.0
+Hash_size: 10
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 369 Distance is :107.0
+Index 914 Distance is :125.0
+Index 230 Distance is :129.0
+Index 491 Distance is :130.0
+Index 118 Distance is :131.0
+Index 88 Distance is :133.0
+Index 55 Distance is :137.0
+Index 473 Distance is :139.0
+Index 25 Distance is :142.0
+Index 357 Distance is :152.0
+Index 847 Distance is :155.0
+Index 404 Distance is :159.0
+Index 156 Distance is :167.0
+Index 211 Distance is :169.0
+Index 87 Distance is :172.0
+Index 715 Distance is :201.0
+Index 990 Distance is :202.0
+Index 166 Distance is :233.0
+Hash_size: 10
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 707 Distance is :119.0
+Index 909 Distance is :122.0
+Index 155 Distance is :126.0
+Index 789 Distance is :127.0
+Index 457 Distance is :132.0
+Index 321 Distance is :133.0
+Index 370 Distance is :145.0
+Index 650 Distance is :149.0
+Index 545 Distance is :180.0
+Index 668 Distance is :208.0
+Hash_size: 11
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 567 Distance is :111.0
+Index 911 Distance is :114.0
+Index 162 Distance is :115.0
+Index 717 Distance is :118.0
+Index 733 Distance is :120.0
+Index 942 Distance is :124.0
+Index 468 Distance is :125.0
+Index 696 Distance is :138.0
+Index 645 Distance is :145.0
+Hash_size: 11
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 40 Distance is :137.0
+Index 145 Distance is :137.0
+Index 810 Distance is :142.0
+Index 230 Distance is :146.0
+Index 295 Distance is :164.0
+Index 890 Distance is :213.0
+Index 996 Distance is :286.0
+Hash_size: 11
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 707 Distance is :140.0
+Index 92 Distance is :144.0
+Index 331 Distance is :147.0
+Index 368 Distance is :152.0
+Index 152 Distance is :153.0
+Index 392 Distance is :158.0
+Index 231 Distance is :160.0
+Index 542 Distance is :167.0
+Index 1000 Distance is :172.0
+Index 840 Distance is :182.0
+Index 610 Distance is :198.0
+Index 205 Distance is :232.0
+Index 599 Distance is :235.0
+Hash_size: 11
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 968 Distance is :133.0
+Index 45 Distance is :138.0
+Index 954 Distance is :139.0
+Index 611 Distance is :146.0
+Index 918 Distance is :152.0
+Index 406 Distance is :180.0
+Hash_size: 11
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 301 Distance is :120.0
+Index 464 Distance is :132.0
+Index 281 Distance is :136.0
+Index 698 Distance is :157.0
+Index 578 Distance is :157.0
+Index 417 Distance is :159.0
+Hash_size: 12
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 111 Distance is :124.0
+Index 756 Distance is :132.0
+Hash_size: 12
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 919 Distance is :131.0
+Index 594 Distance is :139.0
+Index 742 Distance is :141.0
+Index 826 Distance is :182.0
+Index 988 Distance is :192.0
+Hash_size: 12
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 426 Distance is :139.0
+Index 793 Distance is :161.0
+Index 680 Distance is :210.0
+Hash_size: 12
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 88 Distance is :133.0
+Index 308 Distance is :136.0
+Index 581 Distance is :177.0
+Index 395 Distance is :293.0
+Hash_size: 12
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 757 Distance is :121.0
+Index 24 Distance is :133.0
+Index 433 Distance is :135.0
+Index 696 Distance is :150.0
+Index 796 Distance is :181.0
+Hash_size: 13
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 699 Distance is :117.0
+Hash_size: 13
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 453 Distance is :132.0
+Index 284 Distance is :164.0
+Hash_size: 13
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 325 Distance is :172.0
+Hash_size: 13
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 12 Distance is :122.0
+Index 224 Distance is :125.0
+Index 484 Distance is :127.0
+Index 152 Distance is :132.0
+Hash_size: 13
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Hash_size: 14
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Index 375 Distance is :119.0
+Index 725 Distance is :248.0
+Hash_size: 14
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 42 Distance is :173.0
+Hash_size: 14
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 302 Distance is :181.0
+Hash_size: 14
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 939 Distance is :133.0
+Index 295 Distance is :147.0
+Hash_size: 14
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Hash_size: 15
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 15
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 15
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Index 677 Distance is :162.0
+Hash_size: 15
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 15
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 368 Distance is :131.0
+Index 355 Distance is :142.0
+Distance Func Euclidean
+
+############################
+Hash_size: 10
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 10
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 410 Distance is :150.0
+Hash_size: 10
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 10
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 800 Distance is :124.0
+Hash_size: 10
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Index 454 Distance is :124.0
+Hash_size: 11
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 11
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Index 389 Distance is :335.0
+Hash_size: 11
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 11
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Index 738 Distance is :123.0
+Hash_size: 11
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Hash_size: 12
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 12
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 12
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 12
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 12
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Hash_size: 13
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 13
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 13
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 13
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 13
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Hash_size: 14
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 14
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 14
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 14
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 14
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0
+Hash_size: 15
+As for Tid 15
+--------------------------------
+Index 15 Distance is :0.0
+Hash_size: 15
+As for Tid 250
+--------------------------------
+Index 250 Distance is :0.0
+Hash_size: 15
+As for Tid 480
+--------------------------------
+Index 480 Distance is :0.0
+Hash_size: 15
+As for Tid 690
+--------------------------------
+Index 690 Distance is :0.0
+Hash_size: 15
+As for Tid 900
+--------------------------------
+Index 900 Distance is :0.0

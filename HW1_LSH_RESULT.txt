@@ -1,0 +1,526 @@
+// Copyright HGS
+// 2017
+// Data Mining homework-1
+// 
+// Result of LSH performed on given datasets
+
+========================================
+所选距离函数: true_euclidean
+Using hash size: 10
+--------------------
+查询轨迹id: 15
+查询结果数量: 2
+轨迹 15        true_euclidean distance: 0.0  (Query轨迹)
+轨迹 324       true_euclidean distance: 11.5325625947 
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 3
+轨迹 480       true_euclidean distance: 0.0  (Query轨迹)
+轨迹 192       true_euclidean distance: 12.2065556157 
+轨迹 285       true_euclidean distance: 12.6491106407 
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 2
+轨迹 900       true_euclidean distance: 0.0  (Query轨迹)
+轨迹 921       true_euclidean distance: 15.8429795178 
+Using hash size: 11
+--------------------
+查询轨迹id: 15
+查询结果数量: 2
+轨迹 15        true_euclidean distance: 0.0  (Query轨迹)
+轨迹 869       true_euclidean distance: 11.6619037897 
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 2
+轨迹 900       true_euclidean distance: 0.0  (Query轨迹)
+轨迹 526       true_euclidean distance: 17.1464281995 
+Using hash size: 12
+--------------------
+查询轨迹id: 15
+查询结果数量: 1
+轨迹 15        true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 250
+查询结果数量: 2
+轨迹 250       true_euclidean distance: 0.0  (Query轨迹)
+轨迹 391       true_euclidean distance: 11.2694276696 
+--------------------
+查询轨迹id: 480
+查询结果数量: 2
+轨迹 480       true_euclidean distance: 0.0  (Query轨迹)
+轨迹 128       true_euclidean distance: 14.6287388383 
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       true_euclidean distance: 0.0  (Query轨迹)
+Using hash size: 13
+--------------------
+查询轨迹id: 15
+查询结果数量: 2
+轨迹 15        true_euclidean distance: 0.0  (Query轨迹)
+轨迹 243       true_euclidean distance: 11.2694276696 
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       true_euclidean distance: 0.0  (Query轨迹)
+Using hash size: 14
+--------------------
+查询轨迹id: 15
+查询结果数量: 1
+轨迹 15        true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       true_euclidean distance: 0.0  (Query轨迹)
+Using hash size: 15
+--------------------
+查询轨迹id: 15
+查询结果数量: 1
+轨迹 15        true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       true_euclidean distance: 0.0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       true_euclidean distance: 0.0  (Query轨迹)
+========================================
+所选距离函数: hamming
+Using hash size: 10
+--------------------
+查询轨迹id: 15
+查询结果数量: 15
+轨迹 15        hamming distance: 0  (Query轨迹)
+轨迹 168       hamming distance: 122 
+轨迹 990       hamming distance: 122 
+轨迹 871       hamming distance: 123 
+轨迹 635       hamming distance: 125 
+轨迹 894       hamming distance: 127 
+轨迹 884       hamming distance: 127 
+轨迹 283       hamming distance: 132 
+轨迹 316       hamming distance: 142 
+轨迹 899       hamming distance: 147 
+轨迹 350       hamming distance: 149 
+轨迹 830       hamming distance: 152 
+轨迹 321       hamming distance: 163 
+轨迹 982       hamming distance: 166 
+轨迹 565       hamming distance: 168 
+--------------------
+查询轨迹id: 250
+查询结果数量: 6
+轨迹 250       hamming distance: 0  (Query轨迹)
+轨迹 182       hamming distance: 122 
+轨迹 506       hamming distance: 132 
+轨迹 651       hamming distance: 147 
+轨迹 939       hamming distance: 156 
+轨迹 693       hamming distance: 172 
+--------------------
+查询轨迹id: 480
+查询结果数量: 10
+轨迹 480       hamming distance: 0  (Query轨迹)
+轨迹 914       hamming distance: 133 
+轨迹 426       hamming distance: 134 
+轨迹 171       hamming distance: 136 
+轨迹 144       hamming distance: 140 
+轨迹 191       hamming distance: 146 
+轨迹 136       hamming distance: 147 
+轨迹 796       hamming distance: 153 
+轨迹 993       hamming distance: 177 
+轨迹 567       hamming distance: 194 
+--------------------
+查询轨迹id: 690
+查询结果数量: 11
+轨迹 690       hamming distance: 0  (Query轨迹)
+轨迹 680       hamming distance: 122 
+轨迹 179       hamming distance: 128 
+轨迹 786       hamming distance: 128 
+轨迹 187       hamming distance: 142 
+轨迹 873       hamming distance: 145 
+轨迹 968       hamming distance: 151 
+轨迹 788       hamming distance: 162 
+轨迹 522       hamming distance: 170 
+轨迹 716       hamming distance: 199 
+轨迹 861       hamming distance: 245 
+--------------------
+查询轨迹id: 900
+查询结果数量: 11
+轨迹 900       hamming distance: 0  (Query轨迹)
+轨迹 998       hamming distance: 221 
+轨迹 64        hamming distance: 233 
+轨迹 410       hamming distance: 236 
+轨迹 216       hamming distance: 236 
+轨迹 472       hamming distance: 239 
+轨迹 404       hamming distance: 241 
+轨迹 218       hamming distance: 284 
+轨迹 36        hamming distance: 302 
+轨迹 627       hamming distance: 306 
+轨迹 206       hamming distance: 322 
+Using hash size: 11
+--------------------
+查询轨迹id: 15
+查询结果数量: 7
+轨迹 15        hamming distance: 0  (Query轨迹)
+轨迹 731       hamming distance: 122 
+轨迹 40        hamming distance: 125 
+轨迹 864       hamming distance: 132 
+轨迹 956       hamming distance: 139 
+轨迹 327       hamming distance: 142 
+轨迹 878       hamming distance: 147 
+--------------------
+查询轨迹id: 250
+查询结果数量: 9
+轨迹 250       hamming distance: 0  (Query轨迹)
+轨迹 222       hamming distance: 117 
+轨迹 617       hamming distance: 125 
+轨迹 253       hamming distance: 125 
+轨迹 221       hamming distance: 126 
+轨迹 425       hamming distance: 129 
+轨迹 414       hamming distance: 152 
+轨迹 961       hamming distance: 165 
+轨迹 461       hamming distance: 262 
+--------------------
+查询轨迹id: 480
+查询结果数量: 6
+轨迹 480       hamming distance: 0  (Query轨迹)
+轨迹 156       hamming distance: 139 
+轨迹 243       hamming distance: 141 
+轨迹 515       hamming distance: 148 
+轨迹 824       hamming distance: 181 
+轨迹 619       hamming distance: 207 
+--------------------
+查询轨迹id: 690
+查询结果数量: 7
+轨迹 690       hamming distance: 0  (Query轨迹)
+轨迹 81        hamming distance: 124 
+轨迹 447       hamming distance: 127 
+轨迹 309       hamming distance: 134 
+轨迹 319       hamming distance: 135 
+轨迹 84        hamming distance: 143 
+轨迹 991       hamming distance: 204 
+--------------------
+查询轨迹id: 900
+查询结果数量: 10
+轨迹 900       hamming distance: 0  (Query轨迹)
+轨迹 819       hamming distance: 226 
+轨迹 41        hamming distance: 231 
+轨迹 851       hamming distance: 237 
+轨迹 635       hamming distance: 237 
+轨迹 170       hamming distance: 244 
+轨迹 248       hamming distance: 245 
+轨迹 215       hamming distance: 268 
+轨迹 195       hamming distance: 271 
+轨迹 861       hamming distance: 356 
+Using hash size: 12
+--------------------
+查询轨迹id: 15
+查询结果数量: 4
+轨迹 15        hamming distance: 0  (Query轨迹)
+轨迹 537       hamming distance: 124 
+轨迹 232       hamming distance: 138 
+轨迹 325       hamming distance: 164 
+--------------------
+查询轨迹id: 250
+查询结果数量: 5
+轨迹 250       hamming distance: 0  (Query轨迹)
+轨迹 494       hamming distance: 126 
+轨迹 572       hamming distance: 127 
+轨迹 418       hamming distance: 157 
+轨迹 49        hamming distance: 213 
+--------------------
+查询轨迹id: 480
+查询结果数量: 4
+轨迹 480       hamming distance: 0  (Query轨迹)
+轨迹 537       hamming distance: 138 
+轨迹 365       hamming distance: 148 
+轨迹 740       hamming distance: 159 
+--------------------
+查询轨迹id: 690
+查询结果数量: 3
+轨迹 690       hamming distance: 0  (Query轨迹)
+轨迹 331       hamming distance: 122 
+轨迹 811       hamming distance: 123 
+--------------------
+查询轨迹id: 900
+查询结果数量: 5
+轨迹 900       hamming distance: 0  (Query轨迹)
+轨迹 260       hamming distance: 238 
+轨迹 399       hamming distance: 294 
+轨迹 363       hamming distance: 314 
+轨迹 304       hamming distance: 341 
+Using hash size: 13
+--------------------
+查询轨迹id: 15
+查询结果数量: 1
+轨迹 15        hamming distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 250
+查询结果数量: 2
+轨迹 250       hamming distance: 0  (Query轨迹)
+轨迹 143       hamming distance: 148 
+--------------------
+查询轨迹id: 480
+查询结果数量: 4
+轨迹 480       hamming distance: 0  (Query轨迹)
+轨迹 479       hamming distance: 134 
+轨迹 269       hamming distance: 153 
+轨迹 461       hamming distance: 277 
+--------------------
+查询轨迹id: 690
+查询结果数量: 7
+轨迹 690       hamming distance: 0  (Query轨迹)
+轨迹 484       hamming distance: 122 
+轨迹 732       hamming distance: 128 
+轨迹 6         hamming distance: 128 
+轨迹 271       hamming distance: 129 
+轨迹 318       hamming distance: 132 
+轨迹 84        hamming distance: 143 
+--------------------
+查询轨迹id: 900
+查询结果数量: 3
+轨迹 900       hamming distance: 0  (Query轨迹)
+轨迹 930       hamming distance: 240 
+轨迹 716       hamming distance: 308 
+Using hash size: 14
+--------------------
+查询轨迹id: 15
+查询结果数量: 3
+轨迹 15        hamming distance: 0  (Query轨迹)
+轨迹 20        hamming distance: 122 
+轨迹 918       hamming distance: 127 
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       hamming distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 2
+轨迹 480       hamming distance: 0  (Query轨迹)
+轨迹 709       hamming distance: 169 
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       hamming distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 2
+轨迹 900       hamming distance: 0  (Query轨迹)
+轨迹 178       hamming distance: 242 
+Using hash size: 15
+--------------------
+查询轨迹id: 15
+查询结果数量: 2
+轨迹 15        hamming distance: 0  (Query轨迹)
+轨迹 676       hamming distance: 162 
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       hamming distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       hamming distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       hamming distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       hamming distance: 0  (Query轨迹)
+========================================
+所选距离函数: euclidean
+Using hash size: 10
+--------------------
+查询轨迹id: 15
+查询结果数量: 2
+轨迹 15        euclidean distance: 0  (Query轨迹)
+轨迹 604       euclidean distance: 125 
+--------------------
+查询轨迹id: 250
+查询结果数量: 3
+轨迹 250       euclidean distance: 0  (Query轨迹)
+轨迹 677       euclidean distance: 129 
+轨迹 335       euclidean distance: 181 
+--------------------
+查询轨迹id: 480
+查询结果数量: 2
+轨迹 480       euclidean distance: 0  (Query轨迹)
+轨迹 845       euclidean distance: 152 
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 6
+轨迹 900       euclidean distance: 0  (Query轨迹)
+轨迹 736       euclidean distance: 223 
+轨迹 362       euclidean distance: 230 
+轨迹 472       euclidean distance: 239 
+轨迹 20        euclidean distance: 260 
+轨迹 172       euclidean distance: 262 
+Using hash size: 11
+--------------------
+查询轨迹id: 15
+查询结果数量: 2
+轨迹 15        euclidean distance: 0  (Query轨迹)
+轨迹 242       euclidean distance: 125 
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       euclidean distance: 0  (Query轨迹)
+Using hash size: 12
+--------------------
+查询轨迹id: 15
+查询结果数量: 2
+轨迹 15        euclidean distance: 0  (Query轨迹)
+轨迹 199       euclidean distance: 156 
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 2
+轨迹 900       euclidean distance: 0  (Query轨迹)
+轨迹 44        euclidean distance: 251 
+Using hash size: 13
+--------------------
+查询轨迹id: 15
+查询结果数量: 1
+轨迹 15        euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       euclidean distance: 0  (Query轨迹)
+Using hash size: 14
+--------------------
+查询轨迹id: 15
+查询结果数量: 1
+轨迹 15        euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       euclidean distance: 0  (Query轨迹)
+Using hash size: 15
+--------------------
+查询轨迹id: 15
+查询结果数量: 1
+轨迹 15        euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 250
+查询结果数量: 1
+轨迹 250       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 480
+查询结果数量: 1
+轨迹 480       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 690
+查询结果数量: 1
+轨迹 690       euclidean distance: 0  (Query轨迹)
+--------------------
+查询轨迹id: 900
+查询结果数量: 1
+轨迹 900       euclidean distance: 0  (Query轨迹)
